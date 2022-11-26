@@ -1,6 +1,6 @@
 # Personalize Cangjie IME in Windows
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb)
+[![GitHub](https://img.shields.io/github/license/hoishing/cangjie)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb)
 
 🔗 [source code](https://github.com/hoishing/cangjie)
 
@@ -30,6 +30,10 @@ jupyter = "^1.0.0"
 ```
 
 ## Usage
+
+- run online with binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb)
+
+or
 
 - install the above python packages
 - run `create_code.ipynb` to generate the character set, say in VSCode
