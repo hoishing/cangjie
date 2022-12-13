@@ -52,4 +52,4 @@ or
 
 Open a [github issue](https://github.com/hoishing/cangjie/issues) or ping me on [Twitter](https://twitter.com/hoishing) ![](https://api.iconify.design/logos/twitter.svg?width=20)
 
-[blog]: https://hoishing.medium.com/打造你專屬的倉頡輸入法-d6295c338cbb
+[blog]: https://hoishing.github.io/blog/2020/10/27/cangjie
