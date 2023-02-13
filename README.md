@@ -1,10 +1,10 @@
 # Custom Cangjie IME in Windows
 
-[![GitHub](https://img.shields.io/github/license/hoishing/cangjie)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb)
+[![binder-badge]][binder] ![mit]
 
 > A utility to customize the [DIME](https://github.com/jrywu/DIME) CangJie(倉頡) IME in Windows.
 
-See my [blog][blog] for the motivation of this project.
+See my [blog] for the motivation of this project.
 
 ## Features
 
@@ -39,7 +39,7 @@ jupyter = "^1.0.0"
 
 ## Usage
 
-- run online with binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb)
+- run online with binder [![binder-badge]][binder]
 
 or
 
@@ -48,8 +48,14 @@ or
 - import the generated `dime_cangjie.txt` to DIME
 - enjoy your custom made Cangjie IME 🎉
 
-## Need Help?
+## Questions?
 
-Open a [github issue](https://github.com/hoishing/cangjie/issues) or ping me on [Twitter](https://twitter.com/hoishing) ![](https://api.iconify.design/logos/twitter.svg?width=20)
+Open a [github issue] or ping me on [Twitter ![twitter-icon]][Twitter]
 
-[blog]: https://hoishing.github.io/blog/2020/10/27/cangjie
+[github issue]: https://github.com/hoishing/cangjie/issues
+[Twitter]: https://twitter.com/intent/tweet?text=https://github.com/hoishing/cangjie/%20%0D@hoishing
+[twitter-icon]: https://api.iconify.design/logos/twitter.svg?width=20
+[blog]: /blog/2020-10-27-cangjie/
+[mit]: https://img.shields.io/github/license/hoishing/cangjie
+[binder-badge]: https://mybinder.org/badge_logo.svg
+[binder]: https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb
